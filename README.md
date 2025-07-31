@@ -187,12 +187,12 @@ group by shift;
 - **Sales Scorecards**: Easy-to-read reports showing total sales, who's buying (age/gender), and which products sell best
 - **Sales Patterns**: Charts showing busy months and times of day when people shop most
 - **Customer Reports**: Lists of our most valuable customers and counts of unique shoppers for each product type
-- 
+  
 ## Conclusion
 
-**This project shows how we can use sales data to understand customer behavior and improve business decisions. By analyzing shopping patterns, we can:
+This project shows how we can use sales data to understand customer behavior and improve business decisions. By analyzing shopping patterns, we can:
 - Stock the right products at the right time
 - Create better marketing to target different customer groups
 - Reward our most loyal customers
-- Ultimately increase sales and customer satisfaction**.
+- Ultimately increase sales and customer satisfaction.
 --
