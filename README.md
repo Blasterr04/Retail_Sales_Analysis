@@ -195,4 +195,3 @@ This project shows how we can use sales data to understand customer behavior and
 - Create better marketing to target different customer groups
 - Reward our most loyal customers
 - Ultimately increase sales and customer satisfaction.
---
